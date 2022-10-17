@@ -1,0 +1,3 @@
+[Final_Project_Seydi_Karaer.docx](https://github.com/SeydiKaraer/FinalProject_for_PythonforDataAnalyticsSummer2022/files/9804946/Final_Project_Seydi_Karaer.docx)
+# FinalProject_for_PythonforDataAnalyticsSummer2022
+FinalProject_for_PythonforDataAnalyticsSummer2022
